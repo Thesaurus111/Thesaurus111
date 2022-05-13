@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Thesaurus</string>
+    <string name="fontmoi">Roboto-Italic.ttf</string>
+    <string name="favorite">Избранное</string>
+    <string name="cosmo">Космос</string>
+    <string name="planet">Планеты</string>
+    <string name="stars">Звёзды</string>
+    <string name="universal">Вселенная</string>
+    <string name="animals">Животные</string>
+    <string name="animalsKK">Животные в КК</string>
+    <string name="fish">Рыбы</string>
+    <string name="mlekopit">Млекопитающие</string>
+    <string name="presmik">Пресмыкающиеся</string>
+    <string name="zemnovod">Земноводные</string>
+    <string name="ptici">Птицы</string>
+    <string name="plants">Растения</string>
+    <string name="plantsKK">Растения в КК</string>
+    <string name="cvetkovie">Цветковые</string>
+    <string name="vodorosli">Водоросли</string>
+    <string name="derevkust">Деревья и кустарники</string>
+    <string name="mems">Мемы</string>
+    <string name="grust">Грустные мемы</string>
+    <string name="vesel">Весёлые мемы</string>
+    <string name="itprog">Известные программисты</string>
+    <string name="sozdprog">Создатели языков</string>
+    <string name="vladel">Основатели компаний</string>
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item android:title="@string/favorite" android:id="@+id/id_favorite"></item>
+    <item android:title="@string/cosmo">
+        <menu>
+            <item android:title="@string/planet"
+                android:id="@+id/id_planets"/>
+            <item android:title="@string/stars"
+                android:id="@+id/id_stars"/>
+            <item android:title="@string/universal"
+                android:id="@+id/id_universal"/>
+        </menu>
+    </item>
+    <item android:title="@string/animals">
+        <menu>
+            <item android:title="@string/animalsKK"
+                android:id="@+id/id_animalsKK"/>
+            <item android:title="@string/fish"
+                android:id="@+id/id_fish"/>
+            <item android:title="@string/mlekopit"
+                android:id="@+id/id_mlekopit"/>
+            <item android:title="@string/presmik"
+                android:id="@+id/id_presmik"/>
+            <item android:title="@string/zemnovod"
+                android:id="@+id/id_zemnovod"/>
+            <item android:title="@string/ptici"
+                android:id="@+id/id_ptici"/>
+        </menu>
+    </item>
+    <item android:title="@string/plants">
+        <menu>
+            <item android:title="@string/plantsKK"
+                android:id="@+id/id_plantsKK"/>
+            <item android:title="@string/cvetkovie"
+                android:id="@+id/id_cvetkovie"/>
+            <item android:title="@string/derevkust"
+                android:id="@+id/id_derevkust"/>
+            <item android:title="@string/vodorosli"
+                android:id="@+id/id_vodorosli"/>
+        </menu>
+    </item>
+    <item android:title="@string/mems">
+        <menu>
+            <item android:title="@string/grust"
+                android:id="@+id/id_grust"/>
+            <item android:title="@string/vesel"
+                android:id="@+id/id_vesel"/>
+        </menu>
+    </item>
+    <item android:title="@string/itprog">
+        <menu>
+            <item android:title="@string/vladel"
+                android:id="@+id/id_vladel"/>
+            <item android:title="@string/sozdprog"
+                android:id="@+id/id_sozdprog"/>
+        </menu>
+    </item>
+
+
+
+
+
+</menu>
